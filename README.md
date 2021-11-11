@@ -32,9 +32,13 @@ Your top three recommendations based on your analysis
 
 1. Ask
 Guiding questions
-● What is the problem you are trying to solve? 
+
+● What is the problem you are trying to solve?
+
 To design a new marketing strategy to convert casual riders into annual members.
+
 ● How can your insights drive business decisions? 
+
 The insights will help the marketing team to increase annual members.
 
 Key tasks
@@ -46,44 +50,44 @@ Deliverable A clear statement of the business task
 2. Prepare
 Guiding questions
 ● Where is your data located? 
-Kaggle and github
+    Kaggle and github
 
 ● How is the data organized? 
-The data is in the form of csv file .
+   The data is in the form of csv file .
 
 ● Are there issues with bias or credibility in this data? Does your data ROCCC? 
-No issue with bias or credibility as the population of the dataset has it's own clients as bike riders. Yes the data is ROCCC which stands for reliable, original, comprehensive, current and cited.
+	No issue with bias or credibility as the population of the dataset has it's own clients as bike riders. Yes the data is ROCCC which stands for reliable, original, comprehensive, current and cited.
 
 ● How are you addressing licensing, privacy, security, and accessibility? 
-The data has been made available by company(Motivate International Inc.) under its own license. There is no personal data about the riders as per privacy concern.
+	The data has been made available by company(Motivate International Inc.) under its own license. There is no personal data about the riders as per privacy concern.
 
 ● How did you verify the data’s integrity? 
-The data is consistent and complete with each column having correct data type.
+	The data is consistent and complete with each column having correct data type.
 
 ● How does it help you answer your question?
-It has key insights about the riders like their riding style, membership.
+	It has key insights about the riders like their riding style, membership.
 
 ● Are there any problems with the data?
-It would be good to have some updated information about the bike stations. Also more information about the riders could be useful.*
+	It would be good to have some updated information about the bike stations. Also more information about the riders could be useful.*
 
 Key tasks
 
-Download data and store it appropriately.
-Identify how it’s organized.
-Sort and filter the data.
-Determine the credibility of the data.
-Deliverable A description of all data sources used
+	Download data and store it appropriately.
+	Identify how it’s organized.
+	Sort and filter the data.
+	Determine the credibility of the data.
+	Deliverable A description of all data sources used
 
-The main data source is 12 months (Between oct 2020 and sep 2021) of riding data provided by the Cicylistic company.
+	The main data source is 12 months (Between oct 2020 and sep 2021) of riding data provided by the Cicylistic company.
 
 3. Process
 Guiding questions
 ● What tools are you choosing and why?
-R programming because the size of the data is vast
+	R programming because the size of the data is vast
 ● Have you ensured your data’s integrity?
-By formatting the data to be consistent
+	By formatting the data to be consistent
 ● What steps have you taken to ensure that your data is clean?
-With correct format datatype, removing dirty data, separating the date and time.
+	With correct format datatype, removing dirty data, separating the date and time.
 
 Key tasks
 Check the data for errors.
