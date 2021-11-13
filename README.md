@@ -95,3 +95,14 @@ Choose your tools.
 Transform the data so you can work with it effectively.
 Document the cleaning process.
 Deliverable Documentation of any cleaning or manipulation of data
+
+
+
+  **  Member are 1.2 times the casual(non-member) 
+        It shows weekend has more rider than the weekday (approx:1.4times). Saturday=1.4Monday 
+        Bike type used by user Classic bike are 4 times the docked bike and 1.6 times the electric bike 
+        Month Month of July has maximum number of rider (96834), and February has minimum number (96864)   
+
+   1. Based on the casual rider’s monthly total trips durations, the best odds to launch the new marketing campaign is between March to April.
+       Also, consider different price strategies like seasonal passes to increase the conversion rate.
+    2. Use Digital Media to provide "weekend discount" for member, this way it will promote non-member to take membership.**
